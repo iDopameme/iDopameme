@@ -3,7 +3,9 @@
 
 I am a Native Android Engineer, who is passionate about Mobile Development and a Kotlin enthusiast
 
-Currently, I enjoy building side projects in my spare time to keep up with the latest mobile tech features to stay up to date.
+Currently, I'm working full-time @ Geocaching HQ for their Native Android App on the Google Play Store!
+
+Also, I enjoy building side projects in my spare time to keep up with the latest mobile tech features to stay up to date.
 
 My top interests at the moment include Kotlin Multiplatform, Android Development, and Server side using Ktor and Spring.
 
